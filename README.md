@@ -28,7 +28,7 @@ My current focus is writing cleaner code, understanding systems deeply, and prep
 
 ### 🌱 I’m Currently Learning
 - React framework & advanced concepts  
-- Node.js basics  
+
 - Data Structure and Algorithms  
 
 ---
