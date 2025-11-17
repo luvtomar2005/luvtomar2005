@@ -42,9 +42,10 @@ My current focus is writing cleaner code, understanding systems deeply, and prep
 
 ### 📬 Reach Me At
 📧 **Email:** luvtomar2005@gmail.com  
-🔗 **LeetCode:** <a href="https://www.leetcode.com/luv_tomar14" target="_blank">luv_tomar14</a>
+
 
 ---
+🔗 **LeetCode:** <a href="https://www.leetcode.com/luv_tomar14" target="_blank">luv_tomar14</a>
 
 ## 🌐 Socials
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luvtomar2005@gmail.com)
