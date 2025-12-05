@@ -9,6 +9,12 @@ My current focus is writing cleaner code, understanding systems deeply, and prep
 
 ---
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ### 🚀 Current Focus
 - Mastering **React** 
 - Strengthening **Core JavaScript**  
