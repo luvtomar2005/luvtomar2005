@@ -40,9 +40,9 @@ My current focus is writing cleaner code, understanding systems deeply, and prep
 ---
 
 ### 💬 Ask Me About
-- DSA fundamentals  
-- JavaScript logic  
-- Beginner–friendly frontend topics  
+- Data Structure and Algorithms
+- JavaScript 
+- React framework
 
 ---
 
