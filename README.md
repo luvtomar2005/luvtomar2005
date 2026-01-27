@@ -16,16 +16,13 @@ My current focus is writing cleaner code, understanding systems deeply, and prep
 </div>
 
 ### 🚀 Current Focus
-- Mastering **React** 
-- Strengthening **Core JavaScript**  
+- Mastering **Node js** 
+- Strengthening **Development skills**  
 - Practicing **DSA** consistently  
-- Building small full-stack apps to understand backend fundamentals  
+- Diving deep into react library 
 
 ---
 
-### 🛠️ Projects
-- **2048 Game** – Logic building, DOM manipulation  
-- **Weather App** – JavaScript + API handling  
 
 
 
@@ -33,7 +30,7 @@ My current focus is writing cleaner code, understanding systems deeply, and prep
 ---
 
 ### 🌱 I’m Currently Learning
-- React framework & advanced concepts  
+- ** Backend especially node js for improving my backend skills**
 
 - Data Structure and Algorithms  
 
@@ -41,7 +38,7 @@ My current focus is writing cleaner code, understanding systems deeply, and prep
 
 ### 💬 Ask Me About
 - Data Structure and Algorithms
-- JavaScript 
+
 - React framework
 
 ---
