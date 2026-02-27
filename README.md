@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luv Tomar</h1>
-<h3 align="center">Frontend Developer in Progress | Learning Full-Stack & DSA</h3>
+<h3 align="center">Full Stack Developer in Progress | Learning Full-Stack & DSA</h3>
 
 <img align="right" width="280" alt="coding gif" src="https://github.com/user-attachments/assets/f6c97c72-617b-40bf-bf36-d0a5d392035b" />
 
