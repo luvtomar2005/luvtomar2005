@@ -4,25 +4,27 @@
 ---
 
 ## 👨‍💻 About Me
+I am a developer focused on building strong fundamentals in JavaScript, React, and backend systems with Node.js.
 
-I am a developer focused on building strong fundamentals in **JavaScript, React, and backend systems with Node.js**.
+Recently, I built and deployed a full-stack application (DevBridge), where I worked on authentication, real-time communication, and production deployment using AWS EC2 and Nginx.
 
-Currently I am focused on:
-- Building real-world full stack projects
-- Strengthening my understanding of backend architecture
-- Practicing **Data Structures & Algorithms** for technical interviews
-- Writing cleaner and more maintainable code
+This project helped me go beyond just building features and understand:
 
-I believe in **learning by building**, not just watching tutorials.
+how systems behave in production
+how frontend, backend, and infrastructure interact
+how to debug real-world issues step by step
+
+I believe in learning by building, but more importantly — learning by debugging and understanding failures.
 
 ---
 
 ## 🚀 Current Focus
 
-- Learning **Node.js & Backend Development**
-- Building **full-stack applications**
-- Practicing **DSA (Java)**
-- Improving **problem solving and system thinking**
+Learning Node.js & Backend Development
+Building full-stack applications
+Practicing DSA (Java)
+Improving problem solving and system thinking
+Starting with System Design fundamentals
 
 ---
 
@@ -40,30 +42,47 @@ I believe in **learning by building**, not just watching tutorials.
 
 **Currently Learning**
 
-- React
-- Node.js
-- Express
-- REST APIs
+React
+Node.js
+Express
+REST APIs
+MongoDB
+Socket.io
+AWS EC2 & Nginx
 
 ---
 
 ## 📂 Current Projects
 
 ### DevBridge
-A platform for developers to connect and collaborate.
 
-Features being built:
-- Developer profile system
-- Authentication
-- Connection system
-- Backend APIs
+A full-stack platform for developers to connect and collaborate.
+
+Features:
+
+Authentication (JWT + cookies)
+Connection request system (send/accept/reject)
+Real-time chat using Socket.io
+Backend APIs with validation
+Email notifications (AWS SES)
+
+What I learned:
+
+Handling CORS and cookies in production
+Debugging real-time systems
+Using Nginx as a reverse proxy
+Fixing data flow issues (sender vs receiver)
+Understanding full system flow
 
 Tech:
-- React
-- Node.js
-- Express
-- MongoDB (planned)
 
+React
+Node.js
+Express
+MongoDB
+Socket.io
+AWS EC2
+Nginx
 ---
 
 ## 📈 GitHub Stats
