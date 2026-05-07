@@ -1,54 +1,82 @@
 <h1 align="center">Hi 👋, I'm Luv Tomar</h1>
-<h3 align="center">Full Stack Developer in Progress | JavaScript • React • Node.js</h3>
+<h3 align="center">
+Backend-Focused Full Stack Developer | JavaScript • React • Node.js
+</h3>
 
 ---
 
 ## 👨‍💻 About Me
-I am a developer focused on building strong fundamentals in JavaScript, React, and backend systems with Node.js.
 
-Recently, I built and deployed a full-stack application (DevBridge), where I worked on authentication, real-time communication, and production deployment using AWS EC2 and Nginx.
+I’m a developer focused on building strong backend and full-stack engineering fundamentals through real-world projects and deep system understanding.
 
-This project helped me go beyond just building features and understand:
+Recently, I built and deployed full-stack applications where I worked across:
 
-how systems behave in production
-how frontend, backend, and infrastructure interact
-how to debug real-world issues step by step
+- backend architecture
+- REST APIs
+- authentication systems
+- real-time communication
+- validation & middleware pipelines
+- AWS deployment infrastructure
 
-I believe in learning by building, but more importantly — learning by debugging and understanding failures.
+Instead of only focusing on features, I try to understand:
+
+- how systems behave in production
+- how backend architecture scales
+- how frontend, backend, and infrastructure interact
+- how to debug failures systematically
+
+I’m currently focused on improving:
+- backend engineering
+- system thinking
+- scalable architecture design
+- problem solving using DSA
 
 ---
 
 ## 🚀 Current Focus
 
-Learning Node.js & Backend Development
-Building full-stack applications
-Practicing DSA (Java)
-Improving problem solving and system thinking
-Starting with System Design fundamentals
+- Backend Development with Node.js & Express
+- Scalable REST API architecture
+- System Design fundamentals
+- DSA & problem solving (Java)
+- Production deployment & infrastructure basics
+- Building production-oriented full stack projects
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
+### Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-**Frontend**
+---
+
+### Frontend
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Currently Learning**
+---
 
-React
-Node.js
-Express
-REST APIs
-MongoDB
-Socket.io
-AWS EC2 & Nginx
+### Backend & Infrastructure
+
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Socket.io
+- JWT Authentication
+- Joi Validation
+- Middleware Architecture
+- AWS EC2
+- Nginx
+- AWS SES
 
 ---
 
@@ -56,33 +84,71 @@ AWS EC2 & Nginx
 
 ### DevBridge
 
-A full-stack platform for developers to connect and collaborate.
+A production-oriented full-stack platform for developers to connect and collaborate.
 
-Features:
+### Features
 
-Authentication (JWT + cookies)
-Connection request system (send/accept/reject)
-Real-time chat using Socket.io
-Backend APIs with validation
-Email notifications (AWS SES)
+- JWT Authentication & secure cookie handling
+- Connection request system
+- Real-time chat using Socket.io
+- REST API architecture
+- Backend validation middleware
+- Email notifications using AWS SES
+- Deployment using AWS EC2 + Nginx reverse proxy
 
-What I learned:
+### Backend Concepts Implemented
 
-Handling CORS and cookies in production
-Debugging real-time systems
-Using Nginx as a reverse proxy
-Fixing data flow issues (sender vs receiver)
-Understanding full system flow
+- Layered backend architecture
+- Middleware chaining
+- Centralized error handling
+- Validation pipelines using Joi
+- Async error handling architecture
+- API request lifecycle understanding
 
-Tech:
+### What I Learned
 
-React
-Node.js
-Express
-MongoDB
-Socket.io
-AWS EC2
-Nginx
+- Production deployment debugging
+- Handling CORS & cookies in production
+- Reverse proxy architecture using Nginx
+- Real-time communication flow
+- Backend request lifecycle
+- Debugging distributed frontend/backend issues
+
+### Tech Stack
+
+- React
+- Node.js
+- Express
+- MongoDB
+- Socket.io
+- AWS EC2
+- Nginx
+
+---
+
+### URL Shortener Backend System (Ongoing)
+
+A backend-focused project built to deeply understand scalable backend architecture and request lifecycle management.
+
+### Features Implemented
+
+- URL shortening APIs
+- Redirect handling
+- Layered architecture
+- Centralized error handling
+- Reusable async middleware
+- Joi validation middleware
+- Structured API responses
+- Request validation pipelines
+
+### Current Focus Areas
+
+- Analytics system
+- Redis caching
+- Rate limiting
+- Production-grade backend improvements
+- API optimization
+
 ---
 
 ## 📈 GitHub Stats
@@ -95,16 +161,17 @@ Nginx
 
 ## 📬 Connect With Me
 
-📧 **Email:** luvtomar2005@gmail.com  
+📧 Email: luvtomar2005@gmail.com
 
-🔗 **LeetCode:**  
+🔗 LeetCode:
 https://leetcode.com/luv_tomar14
 
 ---
 
 ## 🎯 2026 Goals
 
-- Become strong in **backend development**
-- Build **3–4 production level full stack projects**
-- Reach **400+ DSA problems solved**
-- Get placed as a **software engineer**
+- Become strong in backend engineering
+- Build 3–4 production-oriented full stack projects
+- Strengthen system design fundamentals
+- Solve 400+ DSA problems
+- Get placed as a software engineer
