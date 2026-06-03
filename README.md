@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Luv%20Tomar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20Full%20Stack&descColor=a78bfa&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<!-- ANIMATED TYPING SUBTITLE -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=a78bfa&center=true&vCenter=true&width=600&lines=Building+backend+systems+that+run+in+production.;Node.js+%7C+Express+%7C+AWS+%7C+MongoDB+%7C+Nginx;Architecture-first+engineering.;Final+year+CS+%E2%80%94+targeting+SWE+roles+2026." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=a78bfa&center=true&vCenter=true&width=600&lines=Building+backend+systems+that+hold+up+in+production.;Node.js+%7C+Express+%7C+AWS+%7C+MongoDB+%7C+Nginx;Architecture-first+engineering.;Final+year+CS+%E2%80%94+targeting+SWE+roles+2026." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- CONTACT BUTTONS -->
 <a href="https://linkedin.com/in/luvtomar">
   <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -31,14 +28,14 @@
 
 ## `$ whoami`
 
-Backend-focused full stack developer. I care most about what happens after the code ships — how systems hold up under real traffic, what breaks in production, and how architecture decisions compound over time.
+Backend-focused engineer who cares about what happens *after* the code ships — how systems hold under real traffic, what breaks at 2am, and how early architecture decisions compound into technical debt.
 
 Currently building production systems with Node.js, Express, and AWS. Final year CS student — available for SWE roles from 2026.
 
 ```
 focus:   backend architecture · API design · production infrastructure
-methods: layered architecture · middleware pipelines · real deployment
-next:    distributed systems · Redis · system design depth
+stack:   Node.js · Express · MongoDB · AWS · Nginx · Socket.io
+next:    distributed systems · Redis internals · system design depth
 ```
 
 ---
@@ -58,6 +55,7 @@ next:    distributed systems · Redis · system design depth
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=flat-square&logo=mongodb&logoColor=47a248)
 ![Socket.io](https://img.shields.io/badge/Socket.io-1a1a2e?style=flat-square&logo=socket.io&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-1a1a2e?style=flat-square&logo=redis&logoColor=dc382d)
 
 **Auth & Validation**
 
@@ -89,16 +87,16 @@ next:    distributed systems · Redis · system design depth
 
 Full-stack platform with a real production deployment — not a localhost demo.
 
-**Architecture highlights:**
-- Cookie-based JWT auth with proper token lifecycle management
-- Real-time messaging via Socket.io with room scoping
+**What actually got built:**
+- Cookie-based JWT auth with proper token lifecycle (refresh, expiry, invalidation)
+- Real-time messaging via Socket.io with room-scoped connections
 - Transactional email through AWS SES
-- Deployed to EC2 behind Nginx as reverse proxy
-- Debugged live issues: socket reconnection, CORS in production, environment config drift
+- EC2 deployment behind Nginx as reverse proxy with SSL termination
+- Debugged production issues firsthand: socket reconnection storms, CORS mismatches, env config drift
 
-> *The interesting part wasn't the feature set — it was keeping the system stable after deployment.*
+> *The interesting work wasn't the feature set — it was keeping things stable after deployment.*
 
-`Node.js` `Express` `MongoDB` `Socket.io` `JWT` `AWS EC2` `Nginx` `SES`
+`Node.js` `Express` `MongoDB` `Socket.io` `JWT` `AWS EC2` `Nginx` `AWS SES`
 
 </td>
 <td width="50%" valign="top">
@@ -106,15 +104,15 @@ Full-stack platform with a real production deployment — not a localhost demo.
 ### [URL Shortener](https://github.com/luvtomar/url-shortener)
 **Backend Architecture Study**
 
-Built to understand *why* architectural patterns exist, not just how to implement features.
+Built to understand *why* architectural patterns exist — not to ship features.
 
-**Design decisions:**
-- Strict layer separation: routes → controllers → services → data
-- Centralized middleware pipeline (auth, validation, error normalization)
-- Uniform API response shape across all endpoints via Joi
-- Redis caching + rate limiting — actively in progress
+**Design decisions and tradeoffs:**
+- Strict layer separation: routes → controllers → services → data access
+- Centralized middleware pipeline for auth, validation, and error normalization
+- Uniform API response contract across all endpoints via Joi schemas
+- Redis caching + rate limiting — in progress
 
-> *Deliberately under-featured. The goal was architecture clarity, not a feature checklist.*
+> *Deliberately under-featured. Architecture clarity was the goal, not a checklist.*
 
 `Node.js` `Express` `MongoDB` `Joi` `Redis` *(in progress)*
 
@@ -124,17 +122,11 @@ Built to understand *why* architectural patterns exist, not just how to implemen
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=luvtomar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvtomar&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" height="165"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=luvtomar&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luvtomar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=f472b6&area=true&area_color=302b63" width="100%"/>
 
 </div>
 
@@ -144,18 +136,18 @@ Built to understand *why* architectural patterns exist, not just how to implemen
 
 ```yaml
 core_focus:
-  - Backend system design and service boundaries
-  - API contracts and structured error handling
-  - Production infrastructure and deployment pipelines
+  - Backend system design and service boundary definition
+  - API contract design and structured error handling
+  - Production infrastructure: deployment, monitoring, failure modes
 
-exploring:
-  - Distributed systems fundamentals
-  - Caching strategies and Redis internals
-  - Rate limiting and system resilience patterns
-  - High-level and low-level design (HLD/LLD)
+currently_studying:
+  - Distributed systems fundamentals (consistency, replication, fault tolerance)
+  - Redis internals: eviction policies, persistence, pub/sub
+  - Rate limiting patterns and system resilience
+  - High-level and low-level system design (HLD/LLD)
 
-practice:
-  - Consistent DSA in Java (LeetCode — problem-solving depth over speed)
+interview_prep:
+  - Daily DSA in Java on LeetCode — depth over speed
 ```
 
 ---
@@ -163,9 +155,9 @@ practice:
 ## 📍 Currently
 
 - 🔨 Finishing Redis integration + rate limiting on URL Shortener
-- 📐 Studying system design — HLD + LLD fundamentals
-- 🧩 Daily DSA practice in Java — interview prep in progress
-- 👀 **Open to backend / full-stack SWE placements — 2026**
+- 📐 Studying system design — HLD + LLD
+- 🧩 Daily DSA practice in Java
+- 👀 **Open to backend / full-stack SWE roles — 2026**
 
 ---
 
